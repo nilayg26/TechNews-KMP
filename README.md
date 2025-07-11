@@ -12,7 +12,7 @@ A Kotlin Multiplatform app that delivers the latest tech news with a seamless UI
 ### 🔧 Tech Stack
 - **Jetpack Compose** – Unified UI toolkit for Android & iOS  
 - **[Ktor](https://github.com/ktorio/ktor)** – Asynchronous API calls  
-- **[Coil](https://github.com/coil-kt/coil)** – Efficient image loading (Android)  
+- **[Coil](https://github.com/coil-kt/coil)** – Efficient image loading  
 - **[BuildKonfig](https://github.com/yshrsmz/BuildKonfig)** – Secure API key management  
 - **expect/actual** – Platform-specific logic for persistent storage:
   - Android → `SharedPreferences`
