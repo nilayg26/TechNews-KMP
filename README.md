@@ -20,8 +20,8 @@ A Kotlin Multiplatform app that delivers the latest tech news with a seamless UI
 
 ### 📂 Storage Handling
 Animations are:
-1. Downloaded and cached in memory  
-2. Stored permanently using platform-specific methods for reuse
+1. Downloaded and cached in memory and then
+2. Stored permanently using platform-specific methods for saving data 
 
 
 
